@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1719567893 source:d:\codecpp\cs1605\snake_src_mock\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+
+1719540678 d:\codecpp\cs1605\snake_src_mock\snake.h
+	<vector>
+
+1719583951 source:d:\codecpp\cs1605\snake_src_mock\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<ctime>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1719625086 d:\codecpp\cs1605\snake_src_mock\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1719471373 d:\codecpp\cs1605\snake_src_mock\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1719471329 source:d:\codecpp\cs1605\snake_src_mock\main.cpp
+	"game.h"
+
